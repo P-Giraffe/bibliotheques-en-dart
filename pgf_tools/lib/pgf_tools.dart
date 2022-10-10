@@ -3,6 +3,4 @@
 /// More dartdocs go here.
 library pgf_tools;
 
-export 'src/pgf_tools_base.dart';
-
-// TODO: Export any libraries intended for clients of this package.
+export 'src/string_tools.dart';
